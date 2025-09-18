@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import './index.css';
 import { DiAtom } from "react-icons/di";
+
 
 function App() {
   return (
